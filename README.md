@@ -72,3 +72,8 @@ matplotlib
 seaborn
 scikit-learn
 openpyxl
+```
+### 2. Prepare Your Data
+Create an Excel file named mood tracker.xlsx in the same directory as the script.
+
+Ensure it has columns like ```txt Mood```, Sleep, Study, Exercise, Hydration, etc. The script is designed to be flexible with missing columns or data.
