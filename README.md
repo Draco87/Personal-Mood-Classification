@@ -59,7 +59,7 @@ The Random Forest model identified a clear hierarchy of which factors were most 
 - **Second Most Important:** **Study hours** — strong correlation with mood changes (37% importance).
 - **Lesser Impact:** **Exercise** and **Hydration**, while still relevant, had a comparatively smaller impact on the model's predictions.
 
-![download](https://github.com/user-attachments/assets/4a60b93c-7316-4062-ba51-b6075676dcd0)
+![download](https://github.com/user-attachments/assets/5a435a51-01b9-4e98-92a8-e76685ec9532)
 
 ### 2. What I Can Infer From My Habits (EDA)
 
