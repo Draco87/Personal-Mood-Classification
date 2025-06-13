@@ -81,6 +81,6 @@ Ensure it has columns like ```Mood```, ```Study```, ```Exercise```, ```Hydration
 ### 3. Run the Analysis
 Execute the Python script from your terminal:
 
-```python mood_model_full_analysis_py.py```
+```python mood_classification.py```
 
 The script will print the cleaning steps, generate EDA plots, and finally output the feature importance results before displaying the final summary chart.
