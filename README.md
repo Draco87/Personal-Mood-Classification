@@ -88,7 +88,7 @@ openpyxl
 ### 2. Prepare Your Data
 Create an Excel file named ```mood tracker.xlsx``` in the same directory as the script.
 
-Ensure it has columns like ```Mood```, ```Study```, ```Exercise```, ```Hydration```, etc. The script is designed to be flexible with missing columns or data.
+Ensure it has columns like ```Mood```, ```Sleep```,```Study```, ```Exercise```, ```Hydration```, etc. The script is designed to be flexible with missing columns or data.
 
 ### 3. Run the Analysis
 Execute the Python script from your terminal:
