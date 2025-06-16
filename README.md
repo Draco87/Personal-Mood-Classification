@@ -1,6 +1,6 @@
 # 📊 Personal Mood Analysis & Prediction Project
 
-A data science project that transforms messy, real-world personal mood tracking data into actionable insights. This project analyzes daily habits like sleep, study, exercise, and hydration to discover which factors have the most significant impact on mood.
+A data science project that transforms messy, real-world personal mood tracking data into actionable insights. This project analyses daily habits like sleep, study, exercise, and hydration to discover which factors have the most significant impact on mood.
 
 ---
 
@@ -51,7 +51,36 @@ This project follows a complete, end-to-end data science pipeline:
 
 The analysis produced two types of insights: quantitative importance from the model and qualitative inferences from the visual data exploration.
 
-### 1. What the Model Learned: The Most Important Factors
+![download](https://github.com/user-attachments/assets/3e206b73-6767-4cf7-b4bb-7d045f9749e6)
+
+### 1. 📈 What the Correlation Map Showed (Linear Trends)
+
+The initial correlation analysis provided a baseline understanding of linear relationships between habits and mood:
+
+- **Strongest Positive Link:**  
+  Hydration exhibited the strongest positive linear correlation with mood (**r = 0.29**).
+
+- **Inverse Habit Relationship:**  
+  A notable inverse correlation was observed between **Exercise** and **Hydration** (**r = -0.35**), suggesting that hydration levels tended to be lower on days when exercise was logged.
+
+---
+
+### 2. 📊 What the Visual Plots Showed (Habit-Mood Relationships)
+
+![download](https://github.com/user-attachments/assets/ce9e5222-4641-46d3-a8d6-cb483f64cdc3)
+
+
+- **Clear Positive Impact of Sleep:**  
+  Boxplots revealed a consistent positive relationship between **sleep duration** and **mood**. Higher median sleep was strongly associated with better moods (e.g., _“Happy,” “Relaxed”_).
+  
+![download](https://github.com/user-attachments/assets/79aef47a-74e6-483e-804c-1b4684b76289)
+
+- **Habit-Based Clustering is Real:**  
+  The pairplot analysis demonstrated that **moods are not randomly distributed**. Days with similar habit patterns (e.g., **low sleep** + **high study hours**) clustered together and were often linked to **low mood states**.
+
+---
+
+### 3. What the Model Learned: The Most Important Factors
 
 The Random Forest model identified a clear hierarchy of which factors were most predictive of mood:
 
@@ -61,7 +90,7 @@ The Random Forest model identified a clear hierarchy of which factors were most 
 
 ![download](https://github.com/user-attachments/assets/5a435a51-01b9-4e98-92a8-e76685ec9532)
 
-### 2. What I Can Infer From My Habits (EDA)
+### 4. What I Can Infer From My Habits (EDA)
 
 By visualising the data, we can understand how these habits likely influence mood:
 
@@ -69,6 +98,8 @@ By visualising the data, we can understand how these habits likely influence moo
 - **The Double-Edged Sword of Studying:** The impact of studying appears more complex. While moderate study hours may correlate with feeling "Neutral" or productive, the data suggests that very high study hours often correspond with lower-rated moods like "Tired" or "Overwhelmed." This indicates a potential burnout threshold.
 - **Clear Habit-Based Clustering:** The pairplot visualization showed that moods are not random. Days tend to group together based on habits. For example, days with low sleep and high study hours often form a distinct cluster under the "Low Mood" category, providing strong visual evidence of this pattern.
 
+
+> These insights highlight the tangible impact of daily habits on mood patterns and underscore the value of combining statistical and visual methods in behavioral data analysis.
 ---
 
 ## 🛠️ How to Use This Project
