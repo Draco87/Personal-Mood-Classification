@@ -51,9 +51,9 @@ This project follows a complete, end-to-end data science pipeline:
 
 The analysis produced two types of insights: quantitative importance from the model and qualitative inferences from the visual data exploration.
 
-![download](https://github.com/user-attachments/assets/3e206b73-6767-4cf7-b4bb-7d045f9749e6)
-
 ### 1. 📈 What the Correlation Map Showed (Linear Trends)
+
+![download](https://github.com/user-attachments/assets/3e206b73-6767-4cf7-b4bb-7d045f9749e6)
 
 The initial correlation analysis provided a baseline understanding of linear relationships between habits and mood:
 
