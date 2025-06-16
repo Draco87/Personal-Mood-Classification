@@ -80,7 +80,7 @@ The initial correlation analysis provided a baseline understanding of linear rel
 
 ---
 
-### 3. What the Model Learned: The Most Important Factors
+### 3. ⚙️ What the Model Learned: The Most Important Factors
 
 The Random Forest model identified a clear hierarchy of which factors were most predictive of mood:
 
@@ -90,7 +90,7 @@ The Random Forest model identified a clear hierarchy of which factors were most 
 
 ![download](https://github.com/user-attachments/assets/5a435a51-01b9-4e98-92a8-e76685ec9532)
 
-### 4. What I Can Infer From My Habits (EDA)
+### 4. ✒️ What I Can Infer From My Habits (EDA)
 
 By visualising the data, we can understand how these habits likely influence mood:
 
