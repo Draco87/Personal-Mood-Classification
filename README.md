@@ -2,6 +2,17 @@
 
 A data science project that transforms messy, real-world personal mood tracking data into actionable insights. This project analyses daily habits like sleep, study, exercise, and hydration to discover which factors have the most significant impact on mood.
 
+## ⚠️ Disclaimer
+
+This project is intended for **educational and exploratory purposes only**. The analysis is based on a limited set of **self-logged data** and does **not** account for other critical factors that may influence well-being, such as:
+
+- Diet  
+- Hormonal balance  
+- Social interactions  
+- Screentime  
+
+The insights generated through this project are **not a substitute for professional medical advice**. Always consult a qualified healthcare provider with any questions regarding your health.
+
 ---
 
 ## ✨ Overview
