@@ -9,7 +9,7 @@ This project is intended for **educational and exploratory purposes only**. The 
 - Diet  
 - Hormonal balance  
 - Social interactions  
-- Screentime  
+- Screentime, etc.  
 
 The insights generated through this project are **not a substitute for professional medical advice**. Always consult a qualified healthcare provider with any questions regarding your health.
 
