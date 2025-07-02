@@ -107,17 +107,17 @@ By visualising the data, we can understand how these habits likely influence moo
 
 - **Positive Impact of Sleep:** The EDA plots suggest a strong positive relationship between sleep and mood. Days with more sleep consistently clustered with higher-rated moods like "Happy" and "Relaxed." Conversely, lower sleep durations were clearly linked to moods like "Tired" and "Unmotivated."
 - **The Double-Edged Sword of Studying:** The impact of studying appears more complex. While moderate study hours may correlate with feeling "Neutral" or productive, the data suggests that very high study hours often correspond with lower-rated moods like "Tired" or "Overwhelmed." This indicates a potential burnout threshold.
-- **Clear Habit-Based Clustering:** The pairplot visualization showed that moods are not random. Days tend to group together based on habits. For example, days with low sleep and high study hours often form a distinct cluster under the "Low Mood" category, providing strong visual evidence of this pattern.
+- **Clear Habit-Based Clustering:** The pairplot visualisation showed that **moods are not random**. Days tend to group together based on habits. For example, days with low sleep and high study hours often form a distinct cluster under the "Low Mood" category, providing strong visual evidence of this pattern.
 
 
-> These insights highlight the tangible impact of daily habits on mood patterns and underscore the value of combining statistical and visual methods in behavioral data analysis.
+> These insights highlight the tangible impact of daily habits on mood patterns and underscore the value of combining statistical and visual methods in behavioural data analysis.
 ---
 
 ## 🛠️ How to Use This Project
 
 ### 1. Prerequisites
 
-Ensure you have Python installed. Then install required libraries. You can use the following `requirements.txt` file:
+Ensure you have Python installed. Then, install the required libraries. You can use the following `requirements.txt` file:
 
 ```txt
 pandas
